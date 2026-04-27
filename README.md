@@ -43,3 +43,11 @@ Run the App:
 streamlit run app.py
 🛡️ Security & Best Practices
 This project implements Zero-Leak Security Protocols. API keys are managed via Streamlit Secrets and are strictly excluded from version control via .gitignore to ensure environment integrity.
+## 📸 Project Gallery
+
+### 🏗️ System Architecture
+![Architecture](assets/04_system_architecture.png)
+
+### 🤖 V.E.R.A. in Action
+![Indexing](assets/01_object_indexing.png)
+*V.E.R.A. identifying objects and assessing workplace safety.*
