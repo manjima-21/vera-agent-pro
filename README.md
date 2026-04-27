@@ -40,7 +40,6 @@ Ini, TOML
 GOOGLE_API_KEY = "your_gemini_api_key_here"
 Run the App:
 
-Bash
 streamlit run app.py
 🛡️ Security & Best Practices
 This project implements Zero-Leak Security Protocols. API keys are managed via Streamlit Secrets and are strictly excluded from version control via .gitignore to ensure environment integrity.
